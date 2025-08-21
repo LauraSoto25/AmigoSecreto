@@ -15,7 +15,7 @@ Aplicación web para sortear un amigo secreto entre varios participantes.
   
   <img width="1918" height="1023" alt="image" src="https://github.com/user-attachments/assets/7a0ff070-ff2b-4283-9d84-1ed47f3c6c64" />
 
-- Has clic en "Agregar Amigo".
+- Has clic en "Añadir".
   
   <img width="1856" height="977" alt="image" src="https://github.com/user-attachments/assets/5254cdd4-3264-487d-8955-161d15b05361" />
 
